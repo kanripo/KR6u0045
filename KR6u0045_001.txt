@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:55:47.610179
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:04
 #+TITLE: 地藏菩薩經
 #+PROPERTY: CBETA_ID T85n2909
 #+PROPERTY: ID KR6u0045
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2909
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6u0045_T_000-1455b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6u0045_T_001-1455b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.2909¶
-
- 佛說地藏菩薩經¶
+No. 2909¶
+佛說地藏菩薩經¶
 ¶
 
 爾時地藏菩薩住在南方瑠璃世界。以淨天¶
